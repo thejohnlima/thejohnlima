@@ -37,6 +37,17 @@ I'm passionate about technology, science, developing things that improve people'
 
 ![John Lima's Github Stats](https://github-readme-stats.vercel.app/api?username=thejohnlima&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+#### <img src="https://media.giphy.com/media/jrnlTtQdMwdpzXs1l7/giphy.gif" width="50"> Open Source Projects
+
+1. [BaseNetworkKit](https://github.com/thejohnlima/BaseNetworkKit)
+2. [BaseTracking](https://github.com/thejohnlima/BaseTracking)
+3. [LMLoading](https://github.com/thejohnlima/LMLoading)
+4. [ObservableKit](https://github.com/thejohnlima/ObservableKit)
+5. [PickImageAlert](https://github.com/thejohnlima/PickImageAlert)
+6. [SWMailgun](https://github.com/thejohnlima/SWMailgun)
+7. [LMStorage](https://github.com/thejohnlima/LMStorage)
+8. [StoreKitManager](https://gist.github.com/thejohnlima/7f4c8808ef27bebb90aac3fd9becba2b)
+
 ### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thejohnlima.thejohnlima)
