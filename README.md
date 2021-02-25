@@ -12,7 +12,7 @@ I'm *John Lima* a Swift Developer. I Spend most of time coding in Swift projects
 - 🔭 I’m currently working in a freelancer projects.
 - 💻 Most used line of code `git commit -m "Doing something great"`
 - 📫 How to reach me: thejohnlima@icloud.com.
-- ⚡ Fun fact: I love sci-fi movies.
+- ⚡ Fun fact: I love space exploration and sci-fi movies.
 
 ### Technologies and Tools
 
@@ -32,10 +32,6 @@ I'm *John Lima* a Swift Developer. I Spend most of time coding in Swift projects
 ### More stuff about me
 
 I'm passionate about technology, science, developing things that improve people's lives and make the world a better place. I've been working with mobile development for iOS platform since 2014 with experience on all steps of iOS development, from the concept of the ideas until releasing the app on the store and following the results with analytics, tests and crash reports.
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats?
-
-![John Lima's Github Stats](https://github-readme-stats.vercel.app/api?username=thejohnlima&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 #### <img src="https://media.giphy.com/media/jrnlTtQdMwdpzXs1l7/giphy.gif" width="50"> Open Source Projects
 
