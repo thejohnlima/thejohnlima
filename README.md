@@ -9,7 +9,7 @@ I'm *John Lima* a Swift Developer. I Spend most of time coding in Swift projects
 [![Instagram Badge](https://img.shields.io/badge/-@thejohnlima-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/thejohnlima/)
 [![Mail Badge](https://img.shields.io/badge/-thejohnlima-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thejohnlima@icloud.com)
 
-- 🔭 I’m currently working in a freelancer projects.
+- 🔭 I’m currently working in a freelance projects.
 - 💻 Most used line of code `git commit -m "Doing something cool"`
 - 📫 How to reach me: thejohnlima.dev@gmail.com.
 - ⚡ Fun fact: I love space exploration and sci-fi movies.
