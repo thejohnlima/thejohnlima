@@ -11,7 +11,7 @@ I'm *John Lima* a Swift Developer. I Spend most of time coding in Swift projects
 
 - 🔭 I’m currently working in a freelance projects.
 - 💻 Most used line of code `git commit -m "Doing something cool"`
-- 📫 How to reach me: thejohnlima.dev@gmail.com.
+- 📫 How to reach me: thejohnlima@icloud.com.
 - ⚡ Fun fact: I love space exploration and sci-fi movies.
 
 ### Technologies and Tools
