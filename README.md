@@ -44,8 +44,4 @@ I'm passionate about technology, science, developing things that improve people'
 7. [MoonKit](https://github.com/thejohnlima/MoonKit)
 8. [StoreKitManager](https://gist.github.com/thejohnlima/7f4c8808ef27bebb90aac3fd9becba2b)
 
-### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thejohnlima.thejohnlima)
-
 Show some ❤️ by starring some of the repositories and also following me on GitHub.
