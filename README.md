@@ -47,5 +47,6 @@ I'm passionate about technology, science, developing things that improve people'
 10. [UICollectionView+Extensions](https://gist.github.com/thejohnlima/a42537e047e99f3259596c921fcb55ec)
 11. [UIAlertController+Extensions](https://gist.github.com/thejohnlima/b3bcef85c48e2302901a7578978b0797)
 12. [UIStoryboard+Extensions](https://gist.github.com/thejohnlima/f3deead07ad01447d39815591b852f42)
+13. [Font+Extensions](https://gist.github.com/thejohnlima/33c2b3ff78dcb4dcf5ad8f932d5aef98)
 
 Show some ❤️ by starring some of the repositories and also following me on GitHub.
