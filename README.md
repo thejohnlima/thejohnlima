@@ -44,5 +44,6 @@ I'm passionate about technology, science, developing things that improve people'
 7. [MoonKit](https://github.com/thejohnlima/MoonKit)
 8. [StoreKitManager](https://gist.github.com/thejohnlima/7f4c8808ef27bebb90aac3fd9becba2b)
 9. [UITableView+Extensions](https://gist.github.com/thejohnlima/ebca08a6009bcf3ad160970dfaefc709)
+10. [UICollectionView+Extensions](https://gist.github.com/thejohnlima/a42537e047e99f3259596c921fcb55ec)
 
 Show some ❤️ by starring some of the repositories and also following me on GitHub.
