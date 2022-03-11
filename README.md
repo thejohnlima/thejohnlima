@@ -6,8 +6,8 @@ I'm *John Lima* a Swift Developer. I Spend most of time coding in Swift projects
 
 [![Twitter Badge](https://img.shields.io/badge/-@thejohnlima-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thejohnlima)](https://twitter.com/thejohnlima)
 [![Linkedin Badge](https://img.shields.io/badge/-thejohnlima-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejohnlima/)
-[![Mail Badge](https://img.shields.io/badge/-thejohnlima-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thejohnlima@icloud.com)
 [![Instagram Badge](https://img.shields.io/badge/-@thejohnlima-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/thejohnlima/)
+[![Mail Badge](https://img.shields.io/badge/-thejohnlima-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thejohnlima@icloud.com)
 
 - 🔭 I’m currently working in a freelance projects.
 - 💻 Most used line of code `git commit -m "Doing something cool"`
