@@ -7,7 +7,7 @@ I'm *John Lima* a Swift Developer. I Spend most of time coding in Swift projects
 [![Twitter Badge](https://img.shields.io/badge/-@thejohnlima-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thejohnlima)](https://twitter.com/thejohnlima)
 [![Linkedin Badge](https://img.shields.io/badge/-thejohnlima-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejohnlima/)
 [![Mail Badge](https://img.shields.io/badge/-thejohnlima-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thejohnlima@icloud.com)
-<!-- [![Instagram Badge](https://img.shields.io/badge/-@thejohnlima-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/thejohnlima/) -->
+[![Instagram Badge](https://img.shields.io/badge/-@thejohnlima-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/thejohnlima/)
 
 - 🔭 I’m currently working in a freelance projects.
 - 💻 Most used line of code `git commit -m "Doing something cool"`
@@ -48,5 +48,6 @@ I'm passionate about technology, science, developing things that improve people'
 11. [UIAlertController+Extensions](https://gist.github.com/thejohnlima/b3bcef85c48e2302901a7578978b0797)
 12. [UIStoryboard+Extensions](https://gist.github.com/thejohnlima/f3deead07ad01447d39815591b852f42)
 13. [Font+Extensions](https://gist.github.com/thejohnlima/33c2b3ff78dcb4dcf5ad8f932d5aef98)
+14. [HapticFeeback](https://gist.github.com/thejohnlima/f859d3539c82432c65500f6ece82c827)
 
 Show some ❤️ by starring some of the repositories and also following me on GitHub.
