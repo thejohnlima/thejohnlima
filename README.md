@@ -27,7 +27,6 @@ I'm *John Lima* a Swift Developer. I Spend most of time coding in Swift projects
 ### Business
 
 - 📎 [My Resume/CV](https://github.com/thejohnlima/Resume/blob/master/resume.pdf)
-- ✉️ thejohnlima@icloud.com
 
 ### More stuff about me
 
