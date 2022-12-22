@@ -46,5 +46,6 @@ I'm passionate about technology, science, developing things that improve people'
 11. [UIStoryboard+Extensions](https://gist.github.com/thejohnlima/f3deead07ad01447d39815591b852f42)
 12. [Font+Extensions](https://gist.github.com/thejohnlima/33c2b3ff78dcb4dcf5ad8f932d5aef98)
 13. [HapticFeeback](https://gist.github.com/thejohnlima/f859d3539c82432c65500f6ece82c827)
+14. [CI+fastlane](https://gist.github.com/thejohnlima/c8950a0eca0752404613d90706cf01b2)
 
 Show some ❤️ by starring some of the repositories and also following me on GitHub.
