@@ -6,11 +6,9 @@ I'm *John Lima* a Swift Developer. I Spend most of time coding in Swift projects
 
 [![Linkedin Badge](https://img.shields.io/badge/-thejohnlima-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejohnlima/)
 [![Twitter Badge](https://img.shields.io/badge/-@thejohnlima-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thejohnlima)](https://twitter.com/thejohnlima)
-[![Mail Badge](https://img.shields.io/badge/-thejohnlima-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thejohnlima@icloud.com)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-@thejohnlima-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/thejohnlima/) -->
 
 - 💻 Most used line of code `git commit -m "Doing something cool"`
-- 📫 How to reach me: thejohnlima@icloud.com.
 - ⚡ Fun fact: I love space exploration and sci-fi movies.
 
 ### Technologies and Tools
@@ -22,10 +20,6 @@ I'm *John Lima* a Swift Developer. I Spend most of time coding in Swift projects
 [![SPM Badge](https://img.shields.io/badge/-SPM-007acc?style=for-the-badge&labelColor=black&logo=apple&logoColor=FFF)](https://developer.apple.com/documentation/swift_packages)
 [![Jira Badge](https://img.shields.io/badge/-Jira-1B46AC?style=for-the-badge&labelColor=black&logo=jira&logoColor=1B46AC)](https://www.atlassian.com/software/jira)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-F7CD51?style=for-the-badge&labelColor=black&logo=firebase&logoColor=F7CD51)](https://firebase.google.com)
-
-### Business
-
-- 📎 [My Resume/CV](https://github.com/thejohnlima/Resume/blob/master/resume.pdf)
 
 ### More stuff about me
 
