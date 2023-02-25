@@ -8,9 +8,6 @@ I'm *John Lima* a Swift Developer. I Spend most of time coding in Swift projects
 [![Twitter Badge](https://img.shields.io/badge/-@thejohnlima-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thejohnlima)](https://twitter.com/thejohnlima)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-@thejohnlima-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/thejohnlima/) -->
 
-- 💻 Most used line of code `git commit -m "Doing something cool"`
-- ⚡ Fun fact: I love space exploration and sci-fi movies.
-
 ### Technologies and Tools
 
 [![Swift Badge](https://img.shields.io/badge/-Swift-D84A26?style=for-the-badge&labelColor=black&logo=apple&logoColor=FFF)](https://developer.apple.com/swift/)
